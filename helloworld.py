@@ -1,2 +1,2 @@
-print("Helolo World")
+print("Hello World")
 print("From Unitrope")
